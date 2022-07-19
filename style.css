@@ -1,0 +1,23 @@
+/* ETIQUETAS, CLASES E IDS */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    padding: 15px;
+    background-color: rgb(214, 214, 214);
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
